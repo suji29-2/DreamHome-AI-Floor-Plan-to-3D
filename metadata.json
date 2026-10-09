@@ -1,0 +1,6 @@
+{
+  "name": "DreamHome — Smart Construction & AI Home Design",
+  "description": "DreamHome: Complete architectural home design platform. Accurate floor plan to 3D reconstruction, 2D CAD drafting, 3D room planning, furniture library, AI design assistant, and photorealistic visualization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
